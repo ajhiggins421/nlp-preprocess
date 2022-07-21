@@ -22,7 +22,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="example.py" />
-    <Compile Include="Nlp.py" />
     <Compile Include="preprocess.py" />
     <Compile Include="visualize.py" />
     <Compile Include="word2vec.py" />
